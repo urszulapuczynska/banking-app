@@ -1,7 +1,7 @@
 # banking-app
 Simple banking application for practice Java Script.
 
-Credentials to log in and data to check:
+Credentials to log in and data to check:<br/>
 // Data
 const account1 = {
   owner: 'Jonas Schmedtmann',
